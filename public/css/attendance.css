@@ -1,0 +1,144 @@
+body{
+	margin:0px;
+	padding: 0px;
+	background-image: url('../images/att-bg.jpg');
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.cover{
+	z-index: 1;
+	background-color: rgba(255,255,255,0.2);
+	position: absolute;
+	padding: 0px;
+	margin: 0px;
+	height: 100vh;
+	width: 100%;
+}
+.top-bar{
+	background-color: #333;
+	height: 100px;
+}
+
+.announcements{
+	/*background-color:blue;*/
+	height: 100vh;
+	border: 1px solid #999;
+	position: relative;
+}
+.current-logged{
+	height: 100vh;
+}
+.queue{
+	/*background-color:rgba(255,0,0,0.3);*/
+	height: 100vh;
+	border: 1px solid #999;
+}
+
+.device-status{
+	height: 3vh;
+	background-color: yellow;
+	border: 1px solid #999;
+	text-align: center;
+}
+
+.latest-log{
+	width: 100%;
+}
+
+.second-log{
+	border: 1px solid #999;
+	height: 37vh;
+	width: 65%;
+	margin: 25px auto;
+	margin-top: 50px;
+}
+
+.sidelogs{
+	border: 1px solid #999;
+	height: 25vh;
+}
+
+#clock{
+	font-size: 120px;
+}
+#date{
+	font-size: 50px;
+}
+
+#log_time, #status, .separator{
+	font-size: 40px;
+	text-shadow: 2px 2px #fff;
+	font-weight: 700;
+}
+.student-image{
+	margin: 0 auto;
+
+}
+.zion-logo{
+	position: absolute;
+	text-align: right;
+	background: white;
+	width: 100%;
+	bottom: 0;
+	right: 0;
+}
+.zion-info{
+	padding: 10px;
+}
+.uppercase{
+	text-transform: uppercase;
+	font-size: 50px;
+	text-shadow: 2px 2px #fff;
+}
+
+.year-section{
+	font-size: 34px;
+	text-shadow: 2px 2px #000;
+	font-weight: 700;
+}
+
+.photo-student{
+	height: 60vh;
+	width: 75%;
+}
+
+.student-info{
+	padding: 15px 0px; 
+	color: #fff;
+}
+.student-name-data{
+	font-size: 18px;
+}
+.last-four{
+	background-color: #d3d3d3;
+	padding: 10px 0px; 
+}
+.trasform-upper{
+	text-transform: uppercase;
+}
+
+.clockdate{
+	background: blue;
+    color: white;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+.remove-padding{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.remove-padding img{
+	margin: 0 auto;
+}
+
+.brown{
+	color: brown;
+}
+.palevioletred{
+	color: palevioletred;
+}
+.darkgreen{
+	color: darkgreen;
+}

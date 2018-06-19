@@ -1,0 +1,18 @@
+.table-bordered {
+    border: 1px solid #ddd !important;
+}
+.table>thead>tr>th {
+    border-bottom: 2px solid #ddd !important;
+}
+
+table {
+    background-color: white !important;
+}
+
+.table-container{
+	background-color: white;
+	padding: 20px;
+}
+.button{
+	margin-top: 25px;
+}

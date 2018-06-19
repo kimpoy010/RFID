@@ -1,0 +1,12 @@
+.sms-tabs{
+	background: white;
+	border-radius: 0px;
+	padding:20px;
+}
+
+.tab-pane{
+	border-left: 1px solid #ddd;
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}

@@ -1,0 +1,23 @@
+#std_photo{
+	display: none;
+}
+
+.btn-photo{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.buttons{
+	padding: 5px;
+}
+#std_number-error{
+	color: red;
+	font-size: 12px;
+	font-style: italic;
+}
+
+.booth{
+	width: 200px;
+	height: 200px;
+	margin: 0px auto;
+}
